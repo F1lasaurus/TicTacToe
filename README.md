@@ -1,2 +1,2 @@
 # TicTacToe
-Tic Tac Toe using Arduino and joystick
+Školní projekt - Jura, Michálek, Voráček
