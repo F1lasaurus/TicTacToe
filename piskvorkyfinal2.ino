@@ -17,7 +17,6 @@ int positionChange;
 char player = 'x';
 
 //definovvání konstant 
-#define bagr 3
 #define Board 10
 #define sensitivity 150
 
